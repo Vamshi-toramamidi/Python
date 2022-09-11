@@ -12,4 +12,4 @@ Learning new things from w3school, stackoverflow, google.
 Interested in Python Programming and Problem Solving (Irrespective of Domain).
 Ask me about Python, Data Structures, AI, DBMS.
 
-This Vamshi-thor/Python Respository consists of Basic Python Programs and Data Structures. 
+This Vamshi-thor/Python Respository consists of - HACKATHONS - LEATCODE - Basic Python Programs and Data Structures
